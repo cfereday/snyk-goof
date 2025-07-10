@@ -5,7 +5,7 @@ A vulnerable Node.js demo application, based on the [Dreamers Lab tutorial](http
 
 Some arbitrary change
 
-Another one
+Another one 
 
 Additional change
 
