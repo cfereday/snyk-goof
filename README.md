@@ -9,6 +9,8 @@ Another one
 
 Additional change
 
+another one
+
 ## Features
 
 This vulnerable app includes the following capabilities to experiment with:
